@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Paradigma2/1.0.0": {
+        "runtime": {
+          "Paradigma2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Paradigma2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\GithubDirectories\Paradigma-test2\Paradigma2\Paradigma2\bin\Debug\netcoreapp3.1\Paradigma2.exe
+D:\GithubDirectories\Paradigma-test2\Paradigma2\Paradigma2\bin\Debug\netcoreapp3.1\Paradigma2.deps.json
+D:\GithubDirectories\Paradigma-test2\Paradigma2\Paradigma2\bin\Debug\netcoreapp3.1\Paradigma2.runtimeconfig.json
+D:\GithubDirectories\Paradigma-test2\Paradigma2\Paradigma2\bin\Debug\netcoreapp3.1\Paradigma2.runtimeconfig.dev.json
+D:\GithubDirectories\Paradigma-test2\Paradigma2\Paradigma2\bin\Debug\netcoreapp3.1\Paradigma2.dll
+D:\GithubDirectories\Paradigma-test2\Paradigma2\Paradigma2\bin\Debug\netcoreapp3.1\Paradigma2.pdb
+D:\GithubDirectories\Paradigma-test2\Paradigma2\Paradigma2\obj\Debug\netcoreapp3.1\Paradigma2.csprojAssemblyReference.cache
+D:\GithubDirectories\Paradigma-test2\Paradigma2\Paradigma2\obj\Debug\netcoreapp3.1\Paradigma2.AssemblyInfoInputs.cache
+D:\GithubDirectories\Paradigma-test2\Paradigma2\Paradigma2\obj\Debug\netcoreapp3.1\Paradigma2.AssemblyInfo.cs
+D:\GithubDirectories\Paradigma-test2\Paradigma2\Paradigma2\obj\Debug\netcoreapp3.1\Paradigma2.csproj.CoreCompileInputs.cache
+D:\GithubDirectories\Paradigma-test2\Paradigma2\Paradigma2\obj\Debug\netcoreapp3.1\Paradigma2.dll
+D:\GithubDirectories\Paradigma-test2\Paradigma2\Paradigma2\obj\Debug\netcoreapp3.1\Paradigma2.pdb
+D:\GithubDirectories\Paradigma-test2\Paradigma2\Paradigma2\obj\Debug\netcoreapp3.1\Paradigma2.genruntimeconfig.cache
